@@ -4,6 +4,6 @@
 
 * bundle install
 
-* rails generate bootstrap:install less 
+* rails g bootstrap:install less
 
-* rails generate bootstrap:install static
+* rails g bootstrap:install static
